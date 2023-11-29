@@ -281,5 +281,9 @@ div {
     background-color: #fafafa;
   }
 }
+/** animaciones **/
+.animate__animated.animate__slideInDown {
+  --animate-duration: 1.5s;
+}
 
 /*# sourceMappingURL=style.css.map */
