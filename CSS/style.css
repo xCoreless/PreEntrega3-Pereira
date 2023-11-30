@@ -92,6 +92,17 @@ p {
   border-radius: 22px;
 }
 
+.card-text {
+  font-size: 14px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.card {
+  border: none;
+}
+
 form {
   margin-top: 20px;
   width: 80%;
